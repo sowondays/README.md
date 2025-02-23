@@ -11,7 +11,7 @@
 
 - 📐 Studying at Oracle Next Education / Basics in Programming
 
-- 🔷 They / He / She
+- 🟡 They / He / She
 
 
 ## Working with
