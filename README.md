@@ -23,7 +23,7 @@
                 <br>HTML
             </td>
             <td align="center">
-                <img  style="width: 90%>; max-width: 300px;" src="https://github.com/user-attachments/assets/488bd74b-f0fe-460a-ac28-c14be8899782" alt="css-logo"/>
+                <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/488bd74b-f0fe-460a-ac28-c14be8899782" alt="css-logo"/>
                 <br>CSS
             </td>
             <td align="center">
