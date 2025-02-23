@@ -37,7 +37,6 @@
                 <img style="width: 100%>; max-width: 300px;" src="https://github.com/user-attachments/assets/1bc2b988-1937-4a8a-a5a9-48fcd1052ec5" alt="ai-logo"/>
                 <br>Adobe Illustrator
             </td>
-        <table> align="center"
             <td align="center">
                 <img style="width: 100%>; max-width: 300px;" src="https://github.com/user-attachments/assets/90d242bc-a9f3-4b7b-99eb-b3c571857965" alt="ae-logo"/>
                 <br>Adobe After Effects
@@ -46,7 +45,6 @@
                 <img style="width: 100%>; max-width: 300px;" src="https://github.com/user-attachments/assets/92221332-a13e-413a-90d1-c1305efc21a2" alt="pr-logo"/>
                 <br>Adobe Premiere
             </td>
-        <table> align="center"
             <td align="center">
                 <img style="width: 100%>; max-width: 300px;" src="https://github.com/user-attachments/assets/c5b4b8e3-3206-4522-96f7-5842044502d5" alt="figma-logo"/>
                 <br>Figma
