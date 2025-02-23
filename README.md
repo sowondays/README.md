@@ -35,7 +35,7 @@
                 <br>Adobe Photoshop
             </td>
              <td align="center">
-                 <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/1bc2b988-1937-4a8a-a5a9-48fcd1052ec5)" alt="adobe-illustrator-logo"/>
+                 <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/1bc2b988-1937-4a8a-a5a9-48fcd1052ec5" alt="adobe-illustrator-logo"/>
                 <br>Adobe Illustrator
             </td>
             <td align="center">
