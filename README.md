@@ -1,20 +1,19 @@
-## <div align="center"> Hello, world! I'm may, welcome to my profile!.</div>
+## <div align="center"> Hello, world! I'm may, welcome to my profile!</div>
 
 ![github-header-image (3)](header%2037-1.png)
 
 <div>
     <img align="left" alt="37 from Reverse:1999" height="230" src=37_icon.png>
-'- 💙 UX and UI'
+- 💙 UX and UI
 
-'- 📘 Working as a full time designer'
+- 📘 Working as a full time designer
 
-'- 📐 Studying at Oracle Next Education / Basics in Programming'
+- 📐 Studying at Oracle Next Education / Basics in Programming
 
-'- 🔷 They / He / She'
+- 🔷 They / He / She
 
 ## Working with
-
-    <table> align="center"
+<table> align="center"
         <tr>
             <td align="center">
                 <img style="width: 100%>; max-width: 300px;" src="https://img.icons8.com/?size=100&id=1043&format=png&color=000000" alt="html-logo"/>
@@ -56,4 +55,3 @@
             </td>
         </tr>
     </table>
-
