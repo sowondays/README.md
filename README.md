@@ -15,7 +15,7 @@
 
 
 ## Working with
-<table> align="center">
+<table align="center">
         <tr>
             <td align="center">
                 <img style="width: 100%>; max-width: 300px;" src="https://github.com/user-attachments/assets/94413fc2-9d2c-4c12-b583-019d11e1d63a" alt="html-logo"/>
