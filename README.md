@@ -3,7 +3,7 @@
 ![github-header-image (3)](header%2037-1.png)
 
 <div>
-    <img align="left" alt="37-reverse-1999" height="230" src=![337_icon](https://github.com/user-attachments/assets/46ebd61b-47f3-4c44-b8ef-9b76c609b036)>
+    <img align="left" alt="37-reverse-1999" width="230" height="230" src=https://github.com/user-attachments/assets/46ebd61b-47f3-4c44-b8ef-9b76c609b036>
 
 - 💙 UX and UI
 
